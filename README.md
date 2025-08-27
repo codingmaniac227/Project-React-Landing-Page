@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/codingmaniac227/react-landing-page">
+  <a href="https://github.com/codingmaniac227/react-landing-page-demo">
     <img src="images/react-logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -20,14 +20,14 @@
   <p align="center">
     A simple React landing page project highlighting fun facts about React.  
     <br />
-    <a href="https://github.com/codingmaniac227/react-landing-page"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/codingmaniac227/react-landing-page-demo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://react-landing-page.netlify.app">View Demo</a>
+    <a href="https://react-landing-page-demo.netlify.app">View Demo</a>
     ·
-    <a href="https://github.com/codingmaniac227/react-landing-page/issues">Report Bug</a>
+    <a href="https://github.com/codingmaniac227/react-landing-page-demo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/codingmaniac227/react-landing-page/issues">Request Feature</a>
+    <a href="https://github.com/codingmaniac227/react-landing-page-demo/issues">Request Feature</a>
   </p>
 </div>
 
@@ -88,7 +88,7 @@ npm install npm@latest -g
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/codingmaniac227/react-landing-page.git
+   git clone https://github.com/codingmaniac227/react-landing-page-demo.git
    ```
 2. Install dependencies:
    ```sh
@@ -109,7 +109,7 @@ npm install npm@latest -g
 - Browse the main section showing a list of fun facts about React.  
 - Inspect the CSS for responsive spacing, typography, and marker styling.  
 
-_For a live demo, visit the deployed site: [react-landing-page.netlify.app](https://react-landing-page.netlify.app)._
+_For a live demo, visit the deployed site: [react-landing-page-demo.netlify.app](https://react-landing-page-demo.netlify.app)._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,7 +154,7 @@ Distributed under the MIT License. See `LICENSE.txt` for details.
 
 Marquise Davis – [@FullStackDemon](https://instagram.com/FullStackDemon) – codingmaniac227@gmail.com  
 
-Project Link: [https://github.com/codingmaniac227/react-landing-page](https://github.com/codingmaniac227/react-landing-page)
+Project Link: [https://github.com/codingmaniac227/react-landing-page-demo](https://github.com/codingmaniac227/react-landing-page-demo)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,16 +170,16 @@ Project Link: [https://github.com/codingmaniac227/react-landing-page](https://gi
 ---
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/codingmaniac227/react-landing-page.svg?style=for-the-badge
-[contributors-url]: https://github.com/codingmaniac227/react-landing-page/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/codingmaniac227/react-landing-page.svg?style=for-the-badge
-[forks-url]: https://github.com/codingmaniac227/react-landing-page/network/members
-[stars-shield]: https://img.shields.io/github/stars/codingmaniac227/react-landing-page.svg?style=for-the-badge
-[stars-url]: https://github.com/codingmaniac227/react-landing-page/stargazers
-[issues-shield]: https://img.shields.io/github/issues/codingmaniac227/react-landing-page.svg?style=for-the-badge
-[issues-url]: https://github.com/codingmaniac227/react-landing-page/issues
-[license-shield]: https://img.shields.io/github/license/codingmaniac227/react-landing-page.svg?style=for-the-badge
-[license-url]: https://github.com/codingmaniac227/react-landing-page/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/codingmaniac227/react-landing-page-demo.svg?style=for-the-badge
+[contributors-url]: https://github.com/codingmaniac227/react-landing-page-demo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/codingmaniac227/react-landing-page-demo.svg?style=for-the-badge
+[forks-url]: https://github.com/codingmaniac227/react-landing-page-demo/network/members
+[stars-shield]: https://img.shields.io/github/stars/codingmaniac227/react-landing-page-demo.svg?style=for-the-badge
+[stars-url]: https://github.com/codingmaniac227/react-landing-page-demo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/codingmaniac227/react-landing-page-demo.svg?style=for-the-badge
+[issues-url]: https://github.com/codingmaniac227/react-landing-page-demo/issues
+[license-shield]: https://img.shields.io/github/license/codingmaniac227/react-landing-page-demo.svg?style=for-the-badge
+[license-url]: https://github.com/codingmaniac227/react-landing-page-demo/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/marquise-davis/
 [product-screenshot]: public/screenshot.png
