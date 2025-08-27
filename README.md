@@ -164,7 +164,6 @@ Project Link: [https://github.com/codingmaniac227/react-landing-page](https://gi
 
 * [React](https://react.dev/)  
 * [Vite](https://vitejs.dev/)  
-* [Scrimba Fullstack Path](https://scrimba.com/fullstack-path-c0fullstack/~05v7)  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
